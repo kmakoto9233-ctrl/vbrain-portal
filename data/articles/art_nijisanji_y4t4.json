@@ -1,0 +1,98 @@
+{
+    "id": "art_nijisanji_y4t4",
+    "title": "にじさんじ新時代：ストリーマーチーム「Y4T4」8名が提示するハイブリッド活動の衝撃",
+    "category": "TREND",
+    "date": "2026-04-19",
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "2026年4月19日、にじさんじから突如として発表された新メンバー8名のデビュー。彼らは「Y4T4（ヤタ）」というチーム名を冠し、これまでのVTuberの常識を根底から覆す活動方針を打ち出した。"
+        },
+        {
+            "type": "heading",
+            "text": "Y4T4 メンバープロフィール"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "メンバー名",
+                "メイン活動",
+                "得意ゲーム",
+                "配信プラットフォーム"
+            ],
+            "rows": [
+                [
+                    "神代 蓮",
+                    "FPS/ストリーマー",
+                    "VALORANT",
+                    "Twitch / YouTube"
+                ],
+                [
+                    "九条 零",
+                    "MOBA/解説",
+                    "League of Legends",
+                    "YouTube"
+                ],
+                [
+                    "不知火 翼",
+                    "バラエティ/歌",
+                    "Minecraft",
+                    "YouTube"
+                ],
+                [
+                    "天音 雫",
+                    "FPS/競技シーン",
+                    "Apex Legends",
+                    "Twitch"
+                ],
+                [
+                    "夜桜 麗",
+                    "格ゲー/ストリーマー",
+                    "Street Fighter 7",
+                    "Twitch / YouTube"
+                ],
+                [
+                    "星野 瞬",
+                    "雑談/ラジオ",
+                    "Indie Games",
+                    "YouTube"
+                ],
+                [
+                    "月城 颯",
+                    "RPG/朗読",
+                    "Story Rich Games",
+                    "YouTube"
+                ],
+                [
+                    "日向 葵",
+                    "音楽/DJ",
+                    "Music Games",
+                    "Twitch / YouTube"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "text": "ハイブリッド活動のメリット"
+        },
+        {
+            "type": "paragraph",
+            "text": "最大の特徴は、YouTubeだけでなくTwitchでの活動を最初からメインに据えている点だ。これにより、従来のアイドル的なファン層だけでなく、グローバルなストリーマー文化を好む層にもリーチが可能となった。"
+        },
+        {
+            "type": "list",
+            "items": [
+                "Twitchドロップスを活用した視聴者還元施策",
+                "YouTubeでの高画質アーカイブ・歌動画展開",
+                "プラットフォームを跨いだ大規模ストリーマーイベントへの参加",
+                "投げ銭に頼らないスポンサーシップ主体の収益モデル"
+            ]
+        },
+        {
+            "type": "highlight",
+            "text": "4月21日から22日にかけて行われたリレー配信では、8名合計で同時接続者数50万人を記録。これはにじさんじのデビュー配信史上でも最大級の数字であり、彼らが『実力主義』の新しい風を吹き込むことは間違いない。"
+        }
+    ],
+    "priority": "high",
+    "official_url": "https://www.nijisanji.jp/news"
+}

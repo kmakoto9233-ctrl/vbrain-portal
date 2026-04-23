@@ -5,8 +5,11 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const outfit = Outfit({ subsets: ["latin"], variable: "--font-outfit" });
 
 export const metadata = {
-  title: "V-BRAIN | VTuber Intelligence Portal",
-  description: "AI-driven premium VTuber & Streamer news and analytics portal.",
+  title: "V-BRAIN | Virtual Sphere Insights",
+  description: "VTuber・ストリーマー界隈の最新動向を網羅。データに基づく専門的なレポートをお届けします。",
+  verification: {
+    google: "YbeCaeTMleDXVbZlCJu05CEBCog7QCfTBdhVCcQYjoo",
+  },
 };
 
 export default function RootLayout({ children }) {

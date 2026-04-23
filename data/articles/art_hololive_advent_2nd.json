@@ -1,0 +1,66 @@
+{
+    "id": "art_hololive_advent_2nd",
+    "title": "Hololive English -Advent- 2周年：世界を席巻した『反逆者たち』の進化と深化",
+    "category": "TREND",
+    "date": "2025-07-30",
+    "blocks": [
+        {
+            "type": "paragraph",
+            "text": "ホロライブEN 3期生「-Advent-（アドベント）」が、デビュー2周年を迎えた。監獄から脱走してきた5人の少女たちは、この2年間で英語圏のVTuberシーンを完全に塗り替え、グローバルなエンターテインメントの主役に躍り出た。"
+        },
+        {
+            "type": "heading",
+            "text": "メンバー別の成長と現在の立ち位置"
+        },
+        {
+            "type": "table",
+            "headers": [
+                "メンバー",
+                "この1年の主要実績",
+                "ファンへの影響"
+            ],
+            "rows": [
+                [
+                    "Shiori Novella",
+                    "独自のミステリー企画の定着",
+                    "ストーリーテラーとしての地位確立"
+                ],
+                [
+                    "Koseki Bijou",
+                    "耐久配信と高いゲームスキルの証明",
+                    "『Dandori』文化の全世界への普及"
+                ],
+                [
+                    "Nerissa Ravencroft",
+                    "圧倒的な歌唱力でのカバー動画連発",
+                    "欧米市場における歌姫としての評価"
+                ],
+                [
+                    "Fuwawa & Mococo",
+                    "双子ならではの息の合ったバラエティ",
+                    "『Bau Bau』のミーム化と中毒性"
+                ]
+            ]
+        },
+        {
+            "type": "heading",
+            "text": "2周年記念プロジェクト『THE BREAKOUT 2025』"
+        },
+        {
+            "type": "list",
+            "items": [
+                "アメリカ、イギリス、オーストラリアでのライブビューイング実施",
+                "5人全員が参加する初のオリジナルEPのリリース",
+                "限定アパレルブランドとのコラボ、ニューヨークでの広告展開",
+                "ファン参加型のデジタルARG（代替現実ゲーム）の開催"
+            ]
+        },
+        {
+            "type": "highlight",
+            "text": "-Advent-が示したのは、言語の壁を超えた『個性』の力だ。2025年、彼女たちはもはや『海外支部』ではなく、ホロライブ全体の攻撃力を象徴する精鋭部隊となった。"
+        }
+    ],
+    "official_url": "https://hololive.hololivepro.com/talents?gp=advent",
+    "amazon_url": "https://www.amazon.co.jp/s?k=Hololive+English+Advent&tag=vbrain-22",
+    "priority": "medium"
+}
