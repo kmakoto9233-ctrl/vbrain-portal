@@ -2,6 +2,28 @@ import { getArticleById } from "@/lib/data-fetcher";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 
+export async function generateMetadata({ params }) {
+  const { id } = await params;
+  const article = await getArticleById(id);
+
+  if (!article) {
+    return {
+      title: "Article Not Found | V-BRAIN",
+    };
+  }
+
+  return {
+    title: `${article.title} | V-BRAIN`,
+    description: article.content?.substring(0, 160) || "V-BRAINによる専門的なインテリジェンスレポート。",
+    openGraph: {
+      title: article.title,
+      description: article.content?.substring(0, 160),
+      type: "article",
+      url: `https://vbrain-portal.vercel.app/articles/${id}`,
+    },
+  };
+}
+
 export default async function ArticlePage({ params }) {
   const { id } = await params;
   const article = await getArticleById(id);
